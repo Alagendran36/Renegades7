@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="hello">Hello World, Cakes!</string>
+ <string name="app_name">LALA Bakery</string>
+ <string name="main_title">Cakes</string>
+ <string name="get_started_label">Place an Order!</string>
+ <string name="new_pizza_label">Add New Cake</string>
+ <string name="edit_order_label">Edit Order</string>
+ <string name="checkout_label">Checkout</string>
+ <string name="order_title">Order Summary</string>
+ <string name="new_whole_pizza_title">Slide to select your Flavour</string>
+ <string name="how_to_title">How To Order</string>
+ <string name="how_to_text">Following this message you will be given the option of your cake
+ size, flavour, and texts.  If at any time you need help, press the menu button and select help,
+ for hints on how to use the current screen.</string>
+ <string name="pizza_size">Cake Size</string>
+ <string name="small_label">Small</string>
+ <string name="medium_label">Medium</string>
+ <string name="large_label">Large</string>
+ <string name="party_label">Party</string>
+ <string name="crust_selection">Flavour Selection</string>
+ <string name="thin_label">Strawberry</string>
+ <string name="thick_label">Vanila</string>
+ <string name="deepdish_label">Chocolate</string>
+ <string name="stuffed_label">Pineapple</string>
+ <string name="half_whole_label">Layout</string>
+ <string name="half_label">Half and Half</string>
+ <string name="whole_label">Whole</string>
+ <string name="pepperoni_checkbox">Pepperoni</string>
+ <string name="sausage_checkbox">Sausage</string>
+ <string name="peppers_checkbox">Peppers</string>
+ <string name="onion_checkbox">Onion</string>
+ <string name="extra_cheese_checkbox">Extra Cheese</string>
+ <string name="mushroom_checkbox">Mushroom</string>
+ <string name="add_to_cart_label">Add To Cart</string>
+ <string name="enter_name_text">Please enter your name before placing an order.</string>
+ <string name="incomplete_title">Incomplete Information</string>
+ <string name="right_half_label">Go To Right Half</string>
+ <string name="left_half_label">Go To Left Half</string>
+ <string name="right_label">Right Half</string>
+ <string name="left_label">Left Half</string>
+ <string name="checkout_text">Your cake will be ready for pick up in 15 minutes.</string>
+ <string name="checkout_title">Thank you for your order!</string>
+ <string name="settings_label">Settings...</string>
+ <string name="settings_title">Cake settings</string>
+ <string name="settings_shortcut">s</string>
+ <string name="help_label">Help</string>
+ <string name="help_title">Help</string>
+ <string name="help_shortcut">h</string>
+ <string name="add_ingredients_help">To add ingredients to the cake, slide the pictures at
+the top of the screen until the flavour desired is shown.  Choose which side of the cake,
+left, right or whole,  you would like the topping on, and click the picture. "Whole"  adds 
+the Flavour to the entire cake, while "Top" and "Bottom" only put the topping on that Half.
+To remove the item, simply click the picture again. Once all the items have been selected, select "Add to Cart".</string>
+ <string name="edit_order_help">To add a new cake to your order, select "Add New cake" and
+follow the instructions that follow. To edit a cake in your order, select which cake you
+would like to edit.  Once selected, click on "Edit cake" to edit the selected cake. Once
+you have completed your order, select "Checkout" to know the total and what time to pick up the order.</string>
+ <string name="enter_name_help">Enter your name (or nickname) in the box provided, for pick-up.</string>
+ <string name="empty">Your shopping cart is currently empty</string>
+ <string name="total">Current Total: $0.00</string>
+ <string name="exit">Exit</string>
+ <string name="cancel_label">Cancel Order</string>
+    <string name="title_activity_checkout">Delivery Details</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

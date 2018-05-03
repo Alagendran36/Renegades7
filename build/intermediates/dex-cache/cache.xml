@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_68df6bc3c79d312c347c9b50e0f9f394ab8381dc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.4.0_883c843742a43e5816eb53cc6468e24883c5fffb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.4.0_0ec0563c93399df4c111e1d385bb6d515432eeba.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.4.0_640bfd9ba8e5aa2d6c509ce977e49096a2ebf49d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.4.0_62e0bb9dfca5dfef7b11969d3a4b43631e14a9f1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.4.0_aee80c291e9bd376e34f757379ff6fb6dbbcaae2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.4.0_2ccfcce0eb896a01bf96d4d8fbd51908b8e102f0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.4.0_2139d4dad8c32cbe9d464835b67ec75f557f5180.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.4.0_a93253e6bed1573caecf3f72eec3c63f14f6fa19.jar" />
+    </item>
+    <item
+        jar="D:\AndroidPizza-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="D:\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.4.0_14e30845d56da88cf8e88881e4e6197db49bd070.jar" />
+    </item>
+
+</items>
